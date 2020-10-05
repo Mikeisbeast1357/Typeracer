@@ -1,2 +1,2 @@
 # Typeracer
-TypeRacer 
+TypeRacer auto write bot
